@@ -69,7 +69,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </p>
 
 <h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛs 」─
-</h3>
-
-
+   
