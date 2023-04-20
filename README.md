@@ -72,4 +72,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-<p align="center">
+
